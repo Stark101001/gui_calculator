@@ -5,7 +5,7 @@ window.title("CALCULATOR")
 window.geometry("390x495+700+140")
 window.config(bg="grey")
 window.resizable(0, 0)
-window.iconbitmap("E:\\c.ico")
+window.iconbitmap("c.ico")
 
 # ----------------Functions-------------
 def Enter_number(x):
